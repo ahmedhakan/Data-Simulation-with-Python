@@ -38,4 +38,6 @@ different progress.</p>
 Technologies used in the project:
 
 *   Python (Pandas SimPY Random)
-*   Excel (Data Import & Processing)
+*   Excel (Data Import & Process
+
+You will find a detailed explanation here: [ModellingFinalReport_AhmedHakanDemirtas.pdf](https://github.com/user-attachments/files/18984006/ModellingFinalReport_AhmedHakanDemirtas.pdf)
